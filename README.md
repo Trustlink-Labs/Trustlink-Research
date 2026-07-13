@@ -118,7 +118,7 @@ Implementation validates research.
 
 [https://github.com/bigdreamsweb3/trustlink-pay](https://github.com/bigdreamsweb3/trustlink-pay)
 
-Identity-first stablecoin payment protocol.
+Identity-first stablecoin payment system.
 
 ---
 
