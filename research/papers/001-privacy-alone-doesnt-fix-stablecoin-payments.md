@@ -1,4 +1,4 @@
-# TrustLink Labs Research Paper 001
+# TrustLink Labs Research Paper 001 (TLR-001)
 
 # Privacy Alone Doesn't Fix Stablecoin Payments: Why Blockchain Payment Architecture Must Be Redesigned
 
