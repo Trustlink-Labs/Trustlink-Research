@@ -63,7 +63,7 @@ We build protocol infrastructure—not just payment applications.
 | ID          | Research Paper                                                                                        | Status         |
 | ----------- | ----------------------------------------------------------------------------------------------------- | -------------- |
 | **TLR-001** | Privacy Alone Doesn't Fix Stablecoin Payments: Why Blockchain Payment Architecture Must Be Redesigned | Published |
-| **TLR-002** | Transfer Identity Systems: Rethinking Identity for Blockchain Payments                                | 🚧 In Progress|
+| **TLR-002** | Transfer Identity Protocol: Rethinking Identity for Blockchain Payments                                | 🚧 In Progress|
 | **TLR-003** | Transfer Settlement Network: Intent-Driven Settlement for Blockchain Payments                         | Planned        |
 | **TLR-004** | Privacy Receiving Units: Deterministic Receiving Infrastructure for Identity-Based Payments           | Planned        |
 | **TLR-005** | Veil Privacy Protocol: Confidential Infrastructure for Stablecoin Payments                            | Planned        |
