@@ -2,7 +2,8 @@
 
 # Privacy Alone Doesn't Fix Stablecoin Payments: Why Blockchain Payment Architecture Must Be Redesigned
 
-**By TrustLink Labs Research**
+**Research organization:** TrustLink Labs  
+**Protocol:** Transfer Settlement Network (TSN)  
 
 ---
 

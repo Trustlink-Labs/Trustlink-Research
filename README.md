@@ -69,6 +69,7 @@ We build protocol infrastructure—not just payment applications.
 | **TLR-005** | Veil Privacy Protocol: Confidential Infrastructure for Stablecoin Payments                            | Planned        |
 | **TLR-006** | Payment Graph Privacy: The Missing Layer of Blockchain Payments                                       | Planned        |
 | **TLR-007** | Identity-First Payments: A New Model for Blockchain Commerce                                          | Planned        |
+| **TLR-008** | TSN Private View Container: Device-Authorized Lit and Canvas Rendering                                 | In Progress    |
 
 ---
 
